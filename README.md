@@ -20,7 +20,7 @@ Explorar uma forma simples de reunir oportunidades locais e implementar um prot�
 - Cadastro validado e inclusão imediata em memória.
 - Perfil demonstrativo com interesses registrados.
 
-Os dados não são persistidos depois que o aplicativo é fechado. Não há login, pagamento, chat, GPS, push ou backend.
+Os dados por enquanto não são persistidos depois que o aplicativo é fechado.
 
 ## Tecnologias
 
