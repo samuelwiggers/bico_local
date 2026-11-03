@@ -53,7 +53,7 @@ As necessidades descritas até aqui são hipóteses. Não realizei entrevistas n
 
 ## 5. Planejamento
   
-**Próximas etapas:** repetir os testes após o ajuste do formulário, validar o aplicativo em Android, conversar com usuários e decidir quais melhorias cabem no prazo. Login, banco de dados, perfis separados, mapa e persistência são possibilidades para a entrega final, ainda não implementadas.
+**Próximas etapas:** repetir os testes após o ajuste do formulário, conversar com usuários e decidir quais melhorias cabem no prazo. Login, banco de dados, perfis separados, mapa e persistência são possibilidades para a entrega final, ainda não implementadas.
 
 ## 6. Relatório de andamento — 03/11/2026
 
@@ -63,9 +63,10 @@ Implementei a aplicação em Flutter com uma interface em português e identidad
 
 Organizei o código em telas, modelo de dados, serviço, dados de demonstração e componentes reutilizáveis. Também preparei testes para o modelo, a busca, o filtro, o cadastro, a duplicidade de interesse e a interface. Na execução registrada, oito testes passaram e o teste de validação do formulário encontrou um problema com campos fora da área visível. Ajustei o formulário para manter os campos disponíveis à validação, mas ainda preciso executar a suíte novamente para confirmar a correção. A análise estática foi executada sem apontamentos.
 
-A aplicação foi executada no navegador para produzir as capturas incluídas nesta documentação. Elas mostram a exploração, os detalhes de uma oportunidade, o cadastro e o perfil. A execução em Android ainda precisa ser validada. Também não realizei entrevistas ou pesquisa de campo; por isso, as necessidades da comunidade permanecem como hipóteses e os dados apresentados são fictícios.
+A aplicação foi executada no Android Emulator e no navegador. No emulador, conferi manualmente as telas de exploração, detalhes, cadastro e perfil; as capturas mobile estão incluídas nesta documentação. A captura do perfil mostra um interesse registrado durante a sessão. Ainda não realizei entrevistas ou pesquisa de campo; por isso, as necessidades da comunidade permanecem como hipóteses e os dados apresentados são fictícios.
 
-Como próximos passos, pretendo repetir os testes, executar o aplicativo em Android, conversar com trabalhadores e contratantes e usar as respostas para orientar os ajustes. Para a entrega final, prevista para 01/12/2026, vou avaliar melhorias como persistência, perfis distintos e mapa conforme os requisitos da disciplina e o tempo disponível. Até aqui, o projeto resultou em uma primeira versão navegável e documentada, que ainda precisa de validação técnica e com usuários.
+Como próximos passos, pretendo repetir a suíte de testes após o ajuste do formulário e conversar com trabalhadores e contratantes para orientar os ajustes. Para a entrega final, prevista para 01/12/2026, vou avaliar melhorias como persistência, perfis distintos e mapa conforme os requisitos da disciplina e o tempo disponível. Até aqui, o projeto resultou em uma primeira versão navegável, executada em Android e documentada, que ainda precisa de validação com usuários.
+
 
 Para executar em um ambiente com Flutter e Android SDK configurados:
 

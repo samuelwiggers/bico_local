@@ -42,4 +42,4 @@ Para listar dispositivos: `flutter devices`. Para execução Web, se habilitada 
 
 ## Documentação e evidências
 
-A documentação, o relatório de andamento e as capturas de tela estão reunidos em [`docs/documentacao-projeto.md`](docs/documentacao-projeto.md). As capturas foram feitas no navegador com Flutter Web de primeiro momento.
+A documentação, o relatório de andamento e as capturas de tela estão reunidos em [`docs/documentacao-projeto.md`](docs/documentacao-projeto.md). Há capturas do aplicativo no Android Emulator e no navegador com Flutter Web.
