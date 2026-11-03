@@ -42,4 +42,4 @@ Para listar dispositivos: `flutter devices`. Para execução Web, se habilitada 
 
 ## Documentação e evidências
 
-Consulte a pasta `docs/screenshots/` para visualizar as imagens do sistemas conforme desenvolvimento flui.
+A documentação, o relatório de andamento e as capturas de tela estão reunidos em [`docs/documentacao-projeto.md`](docs/documentacao-projeto.md). As capturas foram feitas no navegador com Flutter Web de primeiro momento.
